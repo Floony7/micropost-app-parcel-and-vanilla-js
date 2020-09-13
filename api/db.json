@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post One",
+      "body": "Working all day, singing all night. I amke the life one great ride."
+    },
+    {
+      "id": 2,
+      "title": "Post Two",
+      "body": "Post two is awesome."
+    },
+    {
+      "id": 3,
+      "title": "Post Three",
+      "body": "My third great post."
+    }
+  ]
+}
